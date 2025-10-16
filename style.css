@@ -321,7 +321,7 @@ button.btn:hover {
   }
 
   .left {
-    border-radius: 20px 20px 0 0;
+    border-radius: 20px 20px 30px 30px;
     padding: 1.5rem 1rem;
   }
 
@@ -359,7 +359,7 @@ button.btn:hover {
   }
 
   .left {
-    border-radius: 15px 15px 0 0;
+    border-radius: 15px 15px 30px 30px;
     padding: 1.5rem 1rem;
   }
 
