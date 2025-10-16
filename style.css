@@ -76,7 +76,7 @@ body{
     /* height: 100%; */
     /* border-top-left-radius: 20px;
     border-bottom-left-radius: 20px; */
-     border-radius: 20px;
+    border-radius: 20px;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
@@ -165,7 +165,7 @@ body{
 
 .right-header{
   font-weight: 700;
-  margin-top: 1.3rem;
+  margin-bottom: 1.3rem;
 }
 
 /* .right-content{
@@ -375,6 +375,11 @@ button.btn:hover {
   .right {
     border-radius: 0 0 15px 15px;
     padding: 1.5rem;
+  }
+
+  .right-header {
+    font-size: 1rem;
+    
   }
 
   .summary {
